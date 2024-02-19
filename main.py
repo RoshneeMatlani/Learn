@@ -3,3 +3,6 @@ def function():
     print("Test")
     print("Push")
     return True
+
+def test():
+    pass
